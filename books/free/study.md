@@ -1,9 +1,9 @@
 # Study Books
 
-## Git
+## ~ PT-BR
+### Git
 * [Pro git](https://git-scm.com/book/pt-br/v2)
 
-## Containerização
-
-### Docker
+### Containerização
+#### Docker
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
